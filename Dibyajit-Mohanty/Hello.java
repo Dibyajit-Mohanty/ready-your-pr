@@ -1,10 +1,13 @@
 import java.util.*;
 
-public class Hello
+class hello
 {
-    public static void main(String [] args)
+    public static void main(String args[])
     {
-    	if (System.out.printf("Welocome All To The Hacktoberfest-2021") == null) {
+        int i=2;
+        while(i+2==4)
+        {
+            System.out.println("Hello Hacktoberfest-2021");
         }
     }
 }
